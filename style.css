@@ -63,6 +63,10 @@ p {
   margin: 8px;
   font-size: 14px;
 }
+.button:active {
+  background-color: hsl(75, 94%, 57%);
+  color: hsl(0, 0%, 12%);
+}
 .attribution {
   margin-top: 50px;
   font-size: 11px;
